@@ -2,3 +2,6 @@
 pretrained/
 data/
 exps/
+*.swp
+*.jpg
+*.png
